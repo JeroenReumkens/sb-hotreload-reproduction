@@ -1,6 +1,6 @@
 # Minimal reproduction repo for Storybook hot reload issue
 
-This repo is used as a minimal reproduction repository for a Storybook issue.
+This repo is used as a minimal reproduction repository for a [Storybook issue](https://github.com/storybookjs/storybook/issues/9192).
 
 ## Issue
 
